@@ -1,0 +1,3 @@
+# greedyAlgorithm
+
+Описание задачи...
