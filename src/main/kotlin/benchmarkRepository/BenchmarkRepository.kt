@@ -2,6 +2,7 @@ package benchmarkRepository
 
 import kotlinx.serialization.json.Json
 import utils.DataGenerator
+import utils.Logger
 import java.io.File
 import kotlin.concurrent.thread
 import kotlin.system.measureNanoTime
